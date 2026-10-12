@@ -1,0 +1,13 @@
+# Kiro internal task state (auto-generated, not meaningful for collaborators)
+.kiro/specs/**/tasks.meta.json
+
+# Temp audio encoding artifacts (already embedded in index.html as Base64)
+.kiro/specs/**/audio-b64.txt
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
